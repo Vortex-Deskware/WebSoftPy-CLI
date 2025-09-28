@@ -92,7 +92,8 @@ WebSoftPy CLI uses **rich, colorful prompts** for a modern terminal experience:
 - Visual feedback on success or error  
 - Clean, readable layout with no clutter  
 
-<img width="622" height="552" alt="WebSoftPy CLI in terminal showing interactive prompts" src="https://github.com/user-attachments/assets/0289cada-bd4b-4a95-bdb6-18a34644e2f3" />
+<img width="961" height="483" alt="image" src="https://github.com/user-attachments/assets/c6ae8d5a-03e5-4ea7-ae76-16bab163e2ff" />
+
 
 *(Example: CLI with theme selection and build prompt)*
 
