@@ -1,6 +1,6 @@
 # Turn any website into a desktop app. Fast, flexible, yours. That's WebSoftPy.
 ---
-### - Note: Development of the CLI Version is slower than that of the GUI version.
+###- Note: Development of the CLI Version is slower than that of the GUI version.
 
 <img width="500" height="500" alt="Untitled (35)" src="https://github.com/user-attachments/assets/28fab140-1128-436c-84be-21df47525f92" />
 
